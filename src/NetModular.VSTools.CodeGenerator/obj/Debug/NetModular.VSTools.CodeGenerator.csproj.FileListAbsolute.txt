@@ -1,0 +1,12 @@
+D:\MyProject\NetModular\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\bin\Debug\Resources\logo.png
+D:\MyProject\NetModular\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\bin\Debug\NetModular.VSTools.CodeGenerator.vsix
+D:\MyProject\NetModular\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\bin\Debug\extension.vsixmanifest
+D:\MyProject\NetModular\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModular.VSTools.CodeGenerator.csprojAssemblyReference.cache
+D:\MyProject\NetModular\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\_EmptyResource.resources
+D:\MyProject\NetModular\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModular.VSTools.CodeGenerator.csproj.GenerateResource.cache
+D:\MyProject\NetModular\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModular.VSTools.CodeGenerator.csproj.CoreCompileInputs.cache
+D:\MyProject\NetModular\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModular.VSTools.CodeGenerator.dll
+D:\MyProject\NetModular\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModular.VSTools.CodeGenerator.pdb
+D:\MyProject\NetModular\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\extension.vsixmanifest
+D:\MyProject\NetModular\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\files.json
+D:\MyProject\NetModular\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\createTemplateManifests.cache

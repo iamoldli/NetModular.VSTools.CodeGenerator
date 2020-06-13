@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyProject\\NetModular\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\NetModular.VSTools.CodeGenerator.csproj": {}
+  },
+  "projects": {
+    "D:\\MyProject\\NetModular\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\NetModular.VSTools.CodeGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProject\\NetModular\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\NetModular.VSTools.CodeGenerator.csproj",
+        "projectName": "NetModular.VSTools.CodeGenerator",
+        "projectPath": "D:\\MyProject\\NetModular\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\NetModular.VSTools.CodeGenerator.csproj",
+        "packagesPath": "C:\\Users\\wenju\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProject\\NetModular\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wenju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.32.2.101:8081/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[16.6.2051, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[16.0.205, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
