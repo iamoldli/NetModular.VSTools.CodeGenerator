@@ -15,7 +15,6 @@ E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTool
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\bin\Debug\NetModular.VSTools.CodeGenerator.pkgdef
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\bin\Debug\NetModular.VSTools.CodeGenerator.vsix
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\bin\Debug\extension.vsixmanifest
-E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModular.VSTools.CodeGenerator.csprojAssemblyReference.cache
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\VSPackage.resources
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModular.VSTools.CodeGenerator.csproj.GenerateResource.cache
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModularCommandPackage.cto
@@ -23,6 +22,7 @@ E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTool
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\VSCT.write.1.tlog
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\resources.json
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\ctoFiles.json
+E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\VSPackage.resources.original
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\mergeCto.cache
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModular.VSTools.CodeGenerator.csproj.CoreCompileInputs.cache
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModular.VSTools.CodeGenerator.dll
