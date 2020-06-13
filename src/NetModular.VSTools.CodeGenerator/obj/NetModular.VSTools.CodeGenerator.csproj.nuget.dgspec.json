@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProject\\NetModular\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\NetModular.VSTools.CodeGenerator.csproj": {}
+    "E:\\CodeManage\\CSharp\\VSIX\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\NetModular.VSTools.CodeGenerator.csproj": {}
   },
   "projects": {
-    "D:\\MyProject\\NetModular\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\NetModular.VSTools.CodeGenerator.csproj": {
+    "E:\\CodeManage\\CSharp\\VSIX\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\NetModular.VSTools.CodeGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProject\\NetModular\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\NetModular.VSTools.CodeGenerator.csproj",
+        "projectUniqueName": "E:\\CodeManage\\CSharp\\VSIX\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\NetModular.VSTools.CodeGenerator.csproj",
         "projectName": "NetModular.VSTools.CodeGenerator",
-        "projectPath": "D:\\MyProject\\NetModular\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\NetModular.VSTools.CodeGenerator.csproj",
-        "packagesPath": "C:\\Users\\wenju\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProject\\NetModular\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\obj\\",
+        "projectPath": "E:\\CodeManage\\CSharp\\VSIX\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\NetModular.VSTools.CodeGenerator.csproj",
+        "packagesPath": "C:\\Users\\lupmi\\.nuget\\packages\\",
+        "outputPath": "E:\\CodeManage\\CSharp\\VSIX\\NetModular.VSTools.CodeGenerator\\src\\NetModular.VSTools.CodeGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\wenju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lupmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,7 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://10.32.2.101:8081/v3/index.json": {},
+          "E:\\_packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
