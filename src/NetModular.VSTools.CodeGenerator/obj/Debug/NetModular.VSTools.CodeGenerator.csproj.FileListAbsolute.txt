@@ -22,7 +22,6 @@ E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTool
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\VSCT.write.1.tlog
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\resources.json
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\ctoFiles.json
-E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\VSPackage.resources.original
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\mergeCto.cache
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModular.VSTools.CodeGenerator.csproj.CoreCompileInputs.cache
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModular.VSTools.CodeGenerator.dll
@@ -32,3 +31,4 @@ E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTool
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\extension.vsixmanifest
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\files.json
 E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\createTemplateManifests.cache
+E:\CodeManage\CSharp\VSIX\NetModular.VSTools.CodeGenerator\src\NetModular.VSTools.CodeGenerator\obj\Debug\NetModular.VSTools.CodeGenerator.csprojAssemblyReference.cache

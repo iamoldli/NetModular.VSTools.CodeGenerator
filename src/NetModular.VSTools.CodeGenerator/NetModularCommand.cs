@@ -186,13 +186,13 @@ namespace NetModular.VSTools.CodeGenerator
 
 
                         //获取Application项目对象
-                        Project applicationProjectItem = solutionProjectItems.Find(t => t.Name == "Application");
+                        Project applicationProjectItem = solutionProjectItems.Find(t => t.FullName == topProject.FullName.Replace("Infrastructure", "Application"));
                         SetIService(applicationProjectItem, classFuns, className);
 
                         SetService(applicationProjectItem, classFuns, className);
 
                         //获取Domain项目对象
-                        Project domainProjectItem = solutionProjectItems.Find(t => t.Name == "Domain");
+                        Project domainProjectItem = solutionProjectItems.Find(t => t.FullName == topProject.FullName.Replace("Infrastructure", "Domain"));
                         SetIRepository(domainProjectItem, classFuns, className);
 
 
